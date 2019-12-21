@@ -1,1 +1,3 @@
-# kafka_nlp_word2vec
+<p>This project was started during the Bachelor's degree course in *Data Processing* which is a part of the specialisation in *Data Science* at the *Vienna University of Economics and Business*. The course was led by Dr. Sabrina Kirrane, who guided our group through the entire process. The goal of the group project was to help us learn more about streaming and processing large volumes of data. For the purpose with focused on Apache Kafka, Apache Spark, NLTK and Word2Vec. The initial team members during the winter term 2019 course were: Ivanova, Haimbuchner, Augenstein, Jusufi. <br>
+As this was our first project in the field, we hope that by sharing our work we can help beginners in the field to get familar with the basic concept in a simpler and more understandable way.</p>
+<p>For detailed information about the project, please check the Project_Desciption.md file. </p>
